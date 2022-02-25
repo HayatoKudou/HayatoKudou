@@ -1,2 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HayatoKudou&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayatoKudou)]
+<!-- ![](https://github-readme-stats.vercel.app/api?username=HayatoKudou&count_private=true) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayatoKudou&theme=vue)
