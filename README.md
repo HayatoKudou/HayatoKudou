@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hayato Kudo</h1>
-<h3 align="center">Japan's mediocre engineers</h3>
+<h1 align="center">Everyone ~(World Musou)</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
