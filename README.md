@@ -2,6 +2,8 @@
 <p align="left">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=HayatoKudou&count_private=true) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayatoKudou&theme=vue)
 
